@@ -1,0 +1,11 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @name_in_latin_bot id=7217776780 - 'name_in_latin'
+INFO:root:Seppuku 5408250402: запустил бота впервые
+INFO:aiogram.event:Update id=89263704 is handled. Duration 208 ms by bot id=7217776780
+INFO:root:Seppuku 5408250402: Голованов Александр Михалович
+INFO:aiogram.event:Update id=89263705 is handled. Duration 246 ms by bot id=7217776780
+INFO:root:Seppuku 5408250402: Жуковский Щука Афанасьевич
+INFO:aiogram.event:Update id=89263706 is handled. Duration 285 ms by bot id=7217776780
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @name_in_latin_bot id=7217776780 - 'name_in_latin'
+INFO:aiogram.dispatcher:Polling stopped
